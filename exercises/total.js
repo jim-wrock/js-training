@@ -6,6 +6,9 @@
  *
  */
 
+ function total(array) {
+  return array.reduce((partial_sum, a) => partial_sum + a);
+ }
 
 //* Begin of tests
 const assert = require('assert')

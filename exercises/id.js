@@ -12,8 +12,6 @@ function id(argument) {
 }
 console.log(id());
 
-
-
 //* Begin of tests
 const assert = require('assert')
 
