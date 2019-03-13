@@ -17,6 +17,8 @@ const sourceObject = {
 
 // Your code :
 
+  return sourceObject.bool
+
 //* Begin of tests
 const assert = require('assert')
 
