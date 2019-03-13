@@ -19,32 +19,8 @@
       "tags": [ "basics", "declaration" ]
     },
     {
-      "name": "circular",
-      "tags": [ "advanced", "declaration" ]
-    },
-    {
       "name": "id",
       "tags": [ "basics", "declaration", "function" ]
-    },
-    {
-      "name": "get-length",
-      "tags": [ "get", "gets", "function" ]
-    },
-    {
-      "name": "get-first",
-      "tags": [ "get", "gets", "function" ]
-    },
-    {
-      "name": "get-last",
-      "tags": [ "get", "gets", "function" ]
-    },
-    {
-      "name": "concat-str",
-      "tags": [ "str", "function", "opperator" ]
-    },
-    {
-      "name": "get",
-      "tags": [ "get", "gets", "function" ]
     },
     {
       "name": "is-positive",
@@ -79,52 +55,12 @@
       "tag": "math"
     },
     {
-      "name": "repeat",
-      "tags": [ "str" ]
-    },
-    {
-      "name": "sentence",
-      "tags": [ "str", "method" ]
-    },
-    {
-      "name": "words",
-      "tags": [ "str", "method" ]
-    },
-    {
-      "name": "yell",
-      "tags": [ "str", "tdd", "method" ]
-    },
-    {
-      "name": "whisper",
-      "tags": [ "str", "tdd", "method" ]
-    },
-    {
-      "name": "cut",
-      "tags": [ "str", "tdd", "method" ]
-    },
-    {
-      "name": "keep",
-      "tags": [ "str", "tdd", "method" ]
-    },
-    {
-      "name": "capitalize",
-      "tags": [ "str", "method" ]
-    },
-    {
-      "name": "jaden-case",
-      "tags": [ "advanced", "tdd", "method" ]
-    },
-    {
       "name": "total",
       "tag": "math"
     },
     {
       "name": "multiply",
       "tag": "math"
-    },
-    {
-      "name": "multiply-recursive",
-      "tags": [ "advanced", "recursion" ]
     }
   ],
   "scripts": {
