@@ -19,10 +19,6 @@
       "tags": [ "basics", "declaration" ]
     },
     {
-      "name": "circular",
-      "tags": [ "advanced", "declaration" ]
-    },
-    {
       "name": "id",
       "tags": [ "basics", "declaration", "function" ]
     },
@@ -109,6 +105,10 @@
     {
       "name": "capitalize",
       "tags": [ "str", "method" ]
+    },
+    {
+      "name": "circular",
+      "tags": [ "advanced", "declaration" ]
     },
     {
       "name": "jaden-case",
